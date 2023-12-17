@@ -3,7 +3,7 @@ import footer from '@/../../public/img/footer.png'
 
 const Footer = () => {
   return(
-    <div className='bg-blueEdu flex justify-center py-7'>
+    <div className='bg-edustreet-blue flex justify-center py-7'>
       <Image
         src={footer}
         width={200}

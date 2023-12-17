@@ -3,7 +3,7 @@ import BenefitsCard from "@/components/Home/BenefitsCard"
 import PopulerCourses from "@/components/Home/PopulerCourses"
 
 
-const Home = () => {
+const Page = () => {
   return (
   <main className="px-32">
     <section>
@@ -37,4 +37,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Page
