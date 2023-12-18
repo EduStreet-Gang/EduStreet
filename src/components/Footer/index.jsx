@@ -3,7 +3,7 @@ import logo from '@/public/logo/logo.png'
 
 const Footer = () => {
   return(
-    <div className='bg-edustreet-blue flex justify-center py-7'>
+    <div className='bg-edustreet-blue flex justify-center py-3'>
       <Image
         src={logo}
         width={200}

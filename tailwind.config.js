@@ -13,7 +13,7 @@ module.exports = {
           red: '#FF2E00',
           white: '#F1F1F3',
           purple: '#2603FF',
-          orange: '#FB8500',
+          orange: '#FFA000',
         }
       },
       backgroundImage: {
