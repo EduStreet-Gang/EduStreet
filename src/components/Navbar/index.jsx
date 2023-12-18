@@ -5,7 +5,7 @@ const Navbar = () => {
     <header>
       <div className="bg-edustreet-blue fixed top-0 left-0 right-0 py-5 px-32 rounded-b-lg flex justify-between z-10 items-center">
         <div className="flex gap-1">
-          <Link href='/' className="bg-edustreet-white py-3 px-5 rounded">Home</Link>
+          <Link href='/' className="py-3 px-5 rounded">Home</Link>
           <Link href='/courses' className="py-3 px-5 rounded">Courses</Link>
           <Link href='/about' className="py-3 px-5 rounded">About Us</Link>
           <Link href='/contact' className="py-3 px-5 rounded">Contact</Link>
