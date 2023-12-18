@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import homePic1 from '@/../../public/img/home/homePic1.png'
+import homePic1 from '@/public/img/home/homePic1.png'
 import Link from "next/link"
 
 const HomeTitle = () => {

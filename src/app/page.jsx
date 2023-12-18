@@ -22,7 +22,7 @@ const Page = () => {
       </div>
     </section>
 
-    <section className="flex flex-col gap-10 mt-28 mb-60">
+    <section className="flex flex-col gap-10 mt-28 mb-44">
       <h2 className="tracking-widest text-4xl font-bold">Populer Courses</h2>
       <div className="grid grid-cols-3 gap-16">
         <PopulerCourses/>

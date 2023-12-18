@@ -11,7 +11,9 @@ module.exports = {
         edustreet: {
           blue: '#2A9DF4',
           red: '#FF2E00',
-          white: '#F1F1F3'
+          white: '#F1F1F3',
+          purple: '#2603FF',
+          orange: '#FB8500',
         }
       },
       backgroundImage: {
