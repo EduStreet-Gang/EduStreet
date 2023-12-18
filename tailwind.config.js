@@ -14,6 +14,7 @@ module.exports = {
           white: '#F1F1F3',
           purple: '#2603FF',
           orange: '#FFA000',
+          grey: '#DBDDDE',
         }
       },
       backgroundImage: {
