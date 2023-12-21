@@ -3,7 +3,7 @@ import Link from "next/link"
 const Navbar = () => {
   return (
     <header>
-      <div className="bg-edustreet-blue fixed top-0 left-0 right-0 py-5 px-32 rounded-b-lg flex justify-between z-10 items-center">
+      <div className="bg-edustreet-blue fixed top-0 left-0 right-0 py-3 px-32 rounded-b-lg flex justify-between z-10 items-center text-md">
         <div className="flex gap-1">
           <Link href='/' className="py-3 px-5 rounded">Home</Link>
           <Link href='/courses' className="py-3 px-5 rounded">Courses</Link>
