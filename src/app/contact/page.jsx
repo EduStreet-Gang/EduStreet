@@ -3,7 +3,7 @@ import Link from "next/link"
 
 const Page = () => {
   return (
-    <main className="h-screen mx-32 grid grid-cols-2 gap-64 items-center">
+    <main className="h-screen mx-32 grid grid-cols-2 gap-64 items-center mt-5">
       <section className="flex flex-col justify-center gap-7">
         <h1 className="font-bold text-4xl">Contact us</h1>
         <h2 className="text-lg">Jangan ragu untuk menghubungi kami kapan saja. kami akan membalas Anda sesegera mungkin!</h2>

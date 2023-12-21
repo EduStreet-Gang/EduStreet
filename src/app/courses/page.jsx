@@ -7,7 +7,7 @@ import CoursesCard from "@/components/Courses/CoursesCard";
 const Page = () => {
     return (
         <main>
-            <section className="mt-20 pt-2">
+            <section className="mt-16 pt-2">
                 <div className="relative w-full h-96 bg-edustreet-purple bg-opacity-50">
                     <Image
                         src={courses1}
