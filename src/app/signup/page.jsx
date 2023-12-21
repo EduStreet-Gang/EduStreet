@@ -17,7 +17,7 @@ const Page = () => {
       <div className="absolute inset-0 flex justify-center items-center mt-16">
         <div className="bg-edustreet-white px-10 py-10 flex flex-col gap-5">
           <div className="flex flex-col gap-1">
-            <h1 className="text-lg pr-32">Create an account</h1>
+            <h1 className="text-xl pr-32">Create an account</h1>
             <h2 className="text-sm">Already have an account? <Link href='/login' className="underline hover:no-underline transition-all">Log in</Link></h2>
           </div>
           <form action="" className="flex flex-col gap-1">
